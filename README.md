@@ -76,8 +76,8 @@ LOG_FILE = "system_health.log"  # Path to log file
 - Include additional metrics (memory usage, CPU temperature, network usage).
 - Run as a scheduled cron job for continuous monitoring.
 
-  ## License
-  This project is licensed under the MIT License.
+## License
+This project is licensed under the MIT License.
 
 
 
